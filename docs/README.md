@@ -1,5 +1,8 @@
 # SQUARE ENIX MUSIC Channel on Youtube リンク集
 
+[SQUARE ENIX MUSIC Channel](https://www.youtube.com/channel/UCMx60HYcw1ieiPlZZagfqXQ/featured) の再生リストをまとめた一覧リンク集です。  
+何かあったら [@euro_s](https://twitter.com/euro_s) まで。
+
 - [SQUARE ENIX MUSIC Channel on Youtube リンク集](#square-enix-music-channel-on-youtube-リンク集)
   - [FINAL FANTASY Series](#final-fantasy-series)
     - [FF1](#ff1)
@@ -20,10 +23,28 @@
     - [DISSIDIA](#dissidia)
     - [FFBE](#ffbe)
     - [FFCC](#ffcc)
-    - [Others](#others)
-    - [Channel Official Playlist](#channel-official-playlist)
+    - [Others (FINAL FANTASY Series)](#others-final-fantasy-series)
+    - [Channel Official Playlist (FINAL FANTASY Series)](#channel-official-playlist-final-fantasy-series)
+  - [SaGa Series](#saga-series)
+    - [SaGa1](#saga1)
+    - [SaGa2](#saga2)
+    - [SaGa3](#saga3)
+    - [RS1](#rs1)
+    - [RS2](#rs2)
+    - [RS3](#rs3)
+    - [SF1](#sf1)
+    - [SF2](#sf2)
+    - [アンサガ](#アンサガ)
+    - [サガスカ](#サガスカ)
+    - [インサガ](#インサガ)
+    - [RS(Re;univerSe)](#rsreuniverse)
+    - [Arrange Albums](#arrange-albums)
+    - [Others (SaGa Series)](#others-saga-series)
+    - [Channel Official Playlist (SaGa Series)](#channel-official-playlist-saga-series)
 
 ## FINAL FANTASY Series
+
+- [FINAL FANTASY Series Playlists](https://www.youtube.com/channel/UCMx60HYcw1ieiPlZZagfqXQ/playlists?view=50&sort=dd&shelf_id=5)
 
 ### FF1
 
@@ -142,7 +163,7 @@
 - [ファイナルファンタジー・クリスタルクロニクル クリスタルベアラー ミュージック・コレクションズ](https://www.youtube.com/playlist?list=OLAK5uy_m6pCIUOhkzK261t09OuARc4JvZVPuaI2Y)
 - [ファイナルファンタジー・クリスタルクロニクル リング・オブ・フェイト オリジナル・サウンドトラック](https://www.youtube.com/playlist?list=OLAK5uy_laprRoo6kk4Ax_PzPsTrhgcI4xdazoAIQ)
 
-### Others
+### Others (FINAL FANTASY Series)
 
 - [BRA★BRA FINAL FANTASY / BRASS de BRAVO](https://www.youtube.com/playlist?list=OLAK5uy_ktYlDLMn8Uuk3D-C7ccx3NES1V5na5REo)
 - [BRA★BRA FINAL FANTASY BRASS de BRAVO 2](https://www.youtube.com/playlist?list=OLAK5uy_lbzR8qlR0Eomw5tXOdUz4n95AGq9xLDg4)
@@ -170,7 +191,7 @@
 - [小さな王様と約束の国&光と闇の姫君と世界征服の塔 ファイナルファンタジー・クリスタルクロニクル](https://www.youtube.com/playlist?list=OLAK5uy_k9lcj6XSQakBYk-okRtVssp6YEG2G8OOs)
 - [翼に夢を(チョコボの不思議なダンジョン)](https://www.youtube.com/playlist?list=OLAK5uy_nZs-2AM08HKcKiVMMGT1zXAgYP8GTAF6M)
 
-### Channel Official Playlist
+### Channel Official Playlist (FINAL FANTASY Series)
 
 - [【Playlist】FINAL FANTASY -cry...-](https://www.youtube.com/playlist?list=PLOLBWlPQqPks0w9wKx03C2qobCqcNLnrw)
 - [【Playlist】FINAL FANTASY -up!-](https://www.youtube.com/playlist?list=PLOLBWlPQqPkufrWHYl_YhEf9-Tfyf0F55)
@@ -191,3 +212,85 @@
 - [【Playlist】HEROES AND VILLAINS - Select Tracks from the FINAL FANTASY Series FIRST](https://www.youtube.com/playlist?list=PLOLBWlPQqPkvuIsgc5Aw6Xe847qzVlr65)
 - [【Playlist】HEROES AND VILLAINS - Select Tracks from the FINAL FANTASY Series SECOND](https://www.youtube.com/playlist?list=PLOLBWlPQqPksFwx7i4gVVJ1Lb1lPfPD64)
 - [【Playlist】HEROES AND VILLAINS - Select Tracks from the FINAL FANTASY Series THIRD](https://www.youtube.com/playlist?list=PLOLBWlPQqPkuO_jpqa7fDwX_W97_u8X1J)
+
+## SaGa Series
+
+- [SaGa Series Playlists](https://www.youtube.com/channel/UCMx60HYcw1ieiPlZZagfqXQ/playlists?view=50&sort=dd&shelf_id=6)
+
+### SaGa1
+
+- [魔界塔士 Sa・Ga Original Soundtrack](https://www.youtube.com/playlist?list=OLAK5uy_k-KaFfFVcAShnTnEOAQ9aBfPneZsNGcRw)
+
+### SaGa2
+
+- [Sa・Ga 2 秘宝伝説 Original Soundtrack](https://www.youtube.com/playlist?list=OLAK5uy_kAZsqOxZ-APTqU-h-zZ2fE_17BnBQGFPc)
+- [サガ2秘宝伝説 GODDESS OF DESTINY オリジナル・サウンドトラック](https://www.youtube.com/playlist?list=OLAK5uy_mEWp8YiifRKWoitDfGfK4PzS2sNw3ouaE)
+
+### SaGa3
+
+- [時空の覇者 Sa・Ga 3 Original Soundtrack](https://www.youtube.com/playlist?list=OLAK5uy_nGlX9s6x9kgdqg3CwLEF2-6x6gS2wY8x4)
+- [サガ3時空の覇者 Shadow or Light Original Soundtrack](https://www.youtube.com/playlist?list=OLAK5uy_krt73-Z2Ezp3Lw3olPdxcPYPEnQE_ptXI)
+
+### RS1
+
+- [Romancing Sa・Ga Original Soundtrack](https://www.youtube.com/playlist?list=OLAK5uy_ldnQBujO4m2dEuFWNPYNWcW9gNonE1ALs)
+
+### RS2
+
+- [Romancing Sa・Ga 2 Original Soundtrack](https://www.youtube.com/playlist?list=OLAK5uy_kecSH81O3lHSMq0Iyik9cv_Vf732D8B4M)
+
+
+### RS3
+
+- [Romancing Sa・Ga 3 Original Soundtrack](https://www.youtube.com/playlist?list=OLAK5uy_nlMEBfMbDKeJnuaw1qKBHqmkYknxag3Fk)
+
+### SF1
+
+- [サガ フロンティア オリジナル・サウンドトラック](https://www.youtube.com/playlist?list=OLAK5uy_mmVn6tXg-qi7-8m1H-nnU82iLsPLWNgMk)
+
+### SF2
+
+- [サガ フロンティア 2 オリジナル・サウンドトラック](https://www.youtube.com/playlist?list=OLAK5uy_nSYJgNCSc_sKpBo2ohxNEjo-V36Gfyw3k)
+- [【2010年再発盤】Piano Pieces ”SF2” Rhapsody on a Theme of SaGa FRONTIER2](https://www.youtube.com/playlist?list=OLAK5uy_nCM_6_6xgzNI1U34-XqZs0htwDTfCVLhE)
+- [Piano Pieces ”SF2” ~ Rhapsody on a Theme of SaGa Frontier 2](https://www.youtube.com/playlist?list=OLAK5uy_lm_PyKbJ-MTS7xbCNr468Of_P1edlXSho)
+
+### アンサガ
+
+- [【再発盤】アンリミテッド:サガ オリジナル・サウンドトラック](https://www.youtube.com/playlist?list=OLAK5uy_kVwrA4ZjnEG8-MWUk8HwwIB18pK8ikSjg)
+
+### サガスカ
+
+- [サガ スカーレット グレイス オリジナル・サウンドトラック](https://www.youtube.com/playlist?list=OLAK5uy_lFP79jR4FmxV3ZDpGc0NC0mhQ1DQRXWIo)
+
+### インサガ
+
+- [インペリアル サガ オリジナル・サウンドトラック](https://www.youtube.com/playlist?list=OLAK5uy_nxkxJ3ENyj_A1a_gZOmTr_Zoz9oxq2Z3A)
+
+### RS(Re;univerSe)
+
+- [Romancing SaGa Re;univerSe ORIGINAL SOUNDTRACK](https://www.youtube.com/playlist?list=OLAK5uy_kRENPzpiunZKxKqmE9zsos9o0C2b6wsec)
+
+### Arrange Albums
+
+- [Re:Birth II/ロマンシングサ・ガ バトル 伊藤賢治アレンジアルバム](https://www.youtube.com/playlist?list=OLAK5uy_lfmz4BGmm5G1nutAfjP7hwSp_8MhEMves)
+- [Re:BirthⅡ-閃- サガ バトルアレンジ](https://www.youtube.com/playlist?list=OLAK5uy_n6EaLJ_0pj8Fj8Rc86yyAau35TR2GM6dI)
+- [Re:BirthⅡ-連- / サガ バトルアレンジ](https://www.youtube.com/playlist?list=OLAK5uy_nVRcGWcv4t79nU6I5uPqLTu4i0zVx8Jdo)
+- [Re:Tune Romancing SaGa BATTLE ARRANGE](https://www.youtube.com/playlist?list=OLAK5uy_mFj3ZBir_oBut0bHk_4Rg2Pac87LjHqLI)
+
+### Others (SaGa Series)
+
+- [SaGa THE STAGE 〜七英雄の帰還〜 Original Soundtrack](https://www.youtube.com/playlist?list=OLAK5uy_n0grhrafUcsr6MpBuymnwOQRSwD74pVwc)
+- [サガ バトル楽曲集](https://www.youtube.com/playlist?list=OLAK5uy_nldzM0bNqzckC2ea7ar-G9u9k3U-Ek6Os)
+- [サガオケ! The Orchestral SaGa -Legend of Music-](https://www.youtube.com/playlist?list=OLAK5uy_m8nFfClbjeVNOvbnSFv8OGZTdVcUjSCvc)
+- [ロマンシング・サガ -ミンストレルソング-(配信用)](https://www.youtube.com/playlist?list=OLAK5uy_kxiw9BmQn65pA7VRGkGI5tVWorfpGPN8w)
+
+### Channel Official Playlist (SaGa Series)
+
+- [【Playlist】サガフロシリーズ　アコアレ　原曲集](https://www.youtube.com/playlist?list=PLOLBWlPQqPksQjvYFAwGTm48FvmKRJAgP)
+- [【Playlist】ロマンシング サ･ガ3 発売25周年](https://www.youtube.com/playlist?list=PLOLBWlPQqPkuWHC6Y_MJRozE5Iq1Q4ibm)
+- [【Playlist】サガシリーズ市川Pの厳選「サガ」ベスト](https://www.youtube.com/playlist?list=PLOLBWlPQqPkvnKXDvndkeMYj_E21JTmK4)
+- [【Playlist】SaGa(サガ)30周年記念 開発スタッフセレクション](https://www.youtube.com/playlist?list=PLOLBWlPQqPkvhVIpCXldmCtgJE9MiuYtS)
+- [【Playlist】サガシリーズ総合D・河津が選ぶ「サガ」クラシック](https://www.youtube.com/playlist?list=PLOLBWlPQqPktSNuNxDZSXHsUg7pBW1Emc)
+- [【Playlist】舞台「SaGa THE STAGE 〜七英雄の帰還〜」DL版発売記念](https://www.youtube.com/playlist?list=PLOLBWlPQqPkvFvvLEQqhhavcwjXSlmzoK)
+- [【Playlist】サガシリーズ30周年＆『Sa・Ga COLLECTION』発売を記念し選曲されたプレイリスト](https://www.youtube.com/playlist?list=PLOLBWlPQqPktdqJCThn1bCLi1kWCHxPIx)
+- [【Playlist】伊藤賢治選曲！ドコドコうるさい「サガ」バトル](https://www.youtube.com/playlist?list=PLOLBWlPQqPkvcJi2oFDCMAasZ4rzs3y1k)
