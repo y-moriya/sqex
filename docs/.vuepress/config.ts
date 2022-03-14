@@ -13,7 +13,7 @@ export default defineUserConfig<DefaultThemeOptions>({
     contributors: false,
   },
   plugins: [
-    ['@vuepress/plugin-google-analytics', {
+    ['@vuepress/google-analytics', {
       'ga': 'UA-159370989-2'
     }],
   ],
