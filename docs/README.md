@@ -35,8 +35,9 @@
     - [SF1](#sf1)
     - [SF2](#sf2)
     - [アンサガ](#アンサガ)
-    - [サガスカ](#サガスカ)
+    - [ミンサガ](#ミンサガ)
     - [インサガ](#インサガ)
+    - [サガスカ](#サガスカ)
     - [RS(Re;univerSe)](#rsreuniverse)
     - [Arrange Albums](#arrange-albums)
     - [Others (SaGa Series)](#others-saga-series)
@@ -100,11 +101,11 @@
 
 - [FINAL FANTASY XI Original Soundtrack](https://www.youtube.com/playlist?list=OLAK5uy_k-bZK09OZ-4UVV0PyVibvzBBjqxglFgw0)
 - [FINAL FANTASY XI Original Soundtrack -PLUS-](https://www.youtube.com/playlist?list=OLAK5uy_m_wNV1tkfLOWFX_vhybs6v259JdTOuWUs)
-- [FINAL FANTASY XI アドゥリンの魔境 オリジナル･サウンドトラック](https://www.youtube.com/playlist?list=OLAK5uy_k7ltSxwbSiyx8IJ1Iwk74hZ2wos0vLZtk)
-- [FINAL FANTASY XI アトルガンの秘宝 Original Soundtrack](https://www.youtube.com/playlist?list=OLAK5uy_mg4gLvu5O5ENo9aQtPcTv8q2PF8BLH9W8)
-- [FINAL FANTASY XI アルタナの神兵 Original Soundtrack](https://www.youtube.com/playlist?list=OLAK5uy_l8kyDHmQGJByoaDIDfTIE1WqwcTfSZK-0)
 - [FINAL FANTASY XI ジラートの幻影 Original Soundtrack](https://www.youtube.com/playlist?list=OLAK5uy_kNdr6sVOEvD-J4mt9eCnc6R4zbJocubSo)
 - [FINAL FANTASY XI プロマシアの呪縛 Original Soundtrack](https://www.youtube.com/playlist?list=OLAK5uy_k9NISBimudPZgNDMRfSvJA7zrMPk4zm2U)
+- [FINAL FANTASY XI アトルガンの秘宝 Original Soundtrack](https://www.youtube.com/playlist?list=OLAK5uy_mg4gLvu5O5ENo9aQtPcTv8q2PF8BLH9W8)
+- [FINAL FANTASY XI アルタナの神兵 Original Soundtrack](https://www.youtube.com/playlist?list=OLAK5uy_l8kyDHmQGJByoaDIDfTIE1WqwcTfSZK-0)
+- [FINAL FANTASY XI アドゥリンの魔境 オリジナル･サウンドトラック](https://www.youtube.com/playlist?list=OLAK5uy_k7ltSxwbSiyx8IJ1Iwk74hZ2wos0vLZtk)
 - [Forever Today:FINAL FANTASY XI アドゥリンの魔境 Original Soundtrack PLUS](https://www.youtube.com/playlist?list=OLAK5uy_kCdDy8pp5btCS1l6yu2rKlLZ9bFOe3LkM)
 
 ### FF12
@@ -258,13 +259,18 @@
 
 - [【再発盤】アンリミテッド:サガ オリジナル・サウンドトラック](https://www.youtube.com/playlist?list=OLAK5uy_kVwrA4ZjnEG8-MWUk8HwwIB18pK8ikSjg)
 
-### サガスカ
 
-- [サガ スカーレット グレイス オリジナル・サウンドトラック](https://www.youtube.com/playlist?list=OLAK5uy_lFP79jR4FmxV3ZDpGc0NC0mhQ1DQRXWIo)
+### ミンサガ
+
+- [ロマンシング・サガ -ミンストレルソング-(配信用)](https://www.youtube.com/playlist?list=OLAK5uy_kxiw9BmQn65pA7VRGkGI5tVWorfpGPN8w)
 
 ### インサガ
 
 - [インペリアル サガ オリジナル・サウンドトラック](https://www.youtube.com/playlist?list=OLAK5uy_nxkxJ3ENyj_A1a_gZOmTr_Zoz9oxq2Z3A)
+
+### サガスカ
+
+- [サガ スカーレット グレイス オリジナル・サウンドトラック](https://www.youtube.com/playlist?list=OLAK5uy_lFP79jR4FmxV3ZDpGc0NC0mhQ1DQRXWIo)
 
 ### RS(Re;univerSe)
 
@@ -282,7 +288,6 @@
 - [SaGa THE STAGE 〜七英雄の帰還〜 Original Soundtrack](https://www.youtube.com/playlist?list=OLAK5uy_n0grhrafUcsr6MpBuymnwOQRSwD74pVwc)
 - [サガ バトル楽曲集](https://www.youtube.com/playlist?list=OLAK5uy_nldzM0bNqzckC2ea7ar-G9u9k3U-Ek6Os)
 - [サガオケ! The Orchestral SaGa -Legend of Music-](https://www.youtube.com/playlist?list=OLAK5uy_m8nFfClbjeVNOvbnSFv8OGZTdVcUjSCvc)
-- [ロマンシング・サガ -ミンストレルソング-(配信用)](https://www.youtube.com/playlist?list=OLAK5uy_kxiw9BmQn65pA7VRGkGI5tVWorfpGPN8w)
 
 ### Channel Official Playlist (SaGa Series)
 
