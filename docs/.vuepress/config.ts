@@ -14,7 +14,7 @@ export default defineUserConfig<DefaultThemeOptions>({
   },
   plugins: [
     ['@vuepress/plugin-google-analytics', {
-      id: 'G-XXTC67KCD4'
+      'ga': 'G-XXTC67KCD4'
     }],
   ],
 })
