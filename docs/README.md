@@ -1,3 +1,7 @@
+---
+title: Links
+---
+
 # SQUARE ENIX MUSIC Channel on Youtube リンク集
 
 [SQUARE ENIX MUSIC Channel](https://www.youtube.com/channel/UCMx60HYcw1ieiPlZZagfqXQ/featured) の再生リストをまとめた一覧リンク集です。  
