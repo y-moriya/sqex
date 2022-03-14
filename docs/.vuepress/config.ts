@@ -12,9 +12,4 @@ export default defineUserConfig<DefaultThemeOptions>({
   themeConfig: {
     contributors: false,
   },
-  plugins: [
-    ['@vuepress/google-analytics', {
-      'ga': 'UA-159370989-2'
-    }],
-  ],
 })
