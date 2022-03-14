@@ -42,6 +42,31 @@
     - [Arrange Albums](#arrange-albums)
     - [Others (SaGa Series)](#others-saga-series)
     - [Channel Official Playlist (SaGa Series)](#channel-official-playlist-saga-series)
+  - [MANA Series(聖剣伝説)](#mana-series聖剣伝説)
+    - [聖剣1](#聖剣1)
+    - [聖剣2](#聖剣2)
+    - [聖剣3](#聖剣3)
+    - [聖剣4](#聖剣4)
+    - [聖剣LOM](#聖剣lom)
+    - [Others (MANA Series)](#others-mana-series)
+    - [Channel Official Playlist (MANA Series)](#channel-official-playlist-mana-series)
+  - [CHRONO Series](#chrono-series)
+    - [クロノトリガー](#クロノトリガー)
+    - [クロノクロス](#クロノクロス)
+    - [アレンジアルバム](#アレンジアルバム)
+  - [NieR Series](#nier-series)
+    - [ニーア ゲシュタルト & レプリカント](#ニーア-ゲシュタルト--レプリカント)
+    - [NieR:Automata](#nierautomata)
+    - [Others (NieR Series)](#others-nier-series)
+    - [Channel Official Playlist (NieR Series)](#channel-official-playlist-nier-series)
+  - [Others](#others)
+    - [ブレイブリー](#ブレイブリー)
+    - [オクトパストラベラー](#オクトパストラベラー)
+    - [シノアリス](#シノアリス)
+    - [すばらしきこのせかい](#すばらしきこのせかい)
+    - [Others (Others)](#others-others)
+  - [SQUARE ENIX MUSIC Recommend](#square-enix-music-recommend)
+    - [Channel Official Playlist (Recommend)](#channel-official-playlist-recommend)
 
 ## FINAL FANTASY Series
 
@@ -299,3 +324,136 @@
 - [【Playlist】舞台「SaGa THE STAGE 〜七英雄の帰還〜」DL版発売記念](https://www.youtube.com/playlist?list=PLOLBWlPQqPkvFvvLEQqhhavcwjXSlmzoK)
 - [【Playlist】サガシリーズ30周年＆『Sa・Ga COLLECTION』発売を記念し選曲されたプレイリスト](https://www.youtube.com/playlist?list=PLOLBWlPQqPktdqJCThn1bCLi1kWCHxPIx)
 - [【Playlist】伊藤賢治選曲！ドコドコうるさい「サガ」バトル](https://www.youtube.com/playlist?list=PLOLBWlPQqPkvcJi2oFDCMAasZ4rzs3y1k)
+
+## MANA Series(聖剣伝説)
+
+- [MANA Series(聖剣伝説) Playlists](https://www.youtube.com/channel/UCMx60HYcw1ieiPlZZagfqXQ/playlists?view=50&sort=dd&shelf_id=7)
+
+### 聖剣1
+
+- [聖剣伝説-ファイナルファンタジー外伝- Original Soundtrack](https://www.youtube.com/playlist?list=OLAK5uy_kokOQAWscmVcI6bGB0_kvvqRLP7LpLxfQ)
+- [聖剣伝説 -ファイナルファンタジー外伝- オリジナル・サウンドトラック](https://www.youtube.com/playlist?list=OLAK5uy_l933ff0qBH76mdcWklhfF_IvoSkWqSIuI)
+
+### 聖剣2
+
+- [聖剣伝説2 Original Soundtrack](https://www.youtube.com/playlist?list=OLAK5uy_msX1UPxWCb-mHTcJU4Ig77xTCPOZHjKvE)
+- [聖剣伝説2 SECRET of MANA Original Soundtrack](https://www.youtube.com/playlist?list=OLAK5uy_lrdc59H8tnwPt6Etr_T-hbMPtP95AbQSo)
+- [シークレット オブ マナ ジェネシス / 聖剣伝説2 アレンジアルバム](https://www.youtube.com/playlist?list=OLAK5uy_kgvWdyYrU3Hg_9VMGjHpI4qkIAZfAo79M)
+
+### 聖剣3
+
+- [聖剣伝説3 Original Soundtrack](https://www.youtube.com/playlist?list=OLAK5uy_lnNKJmvZFxhK-WySRgV8d7eftUqg2orNI)
+
+### 聖剣4
+
+- [聖剣伝説4 オリジナル・サウンドトラック ~Sanctuary~ (105 Track Version)](https://www.youtube.com/playlist?list=OLAK5uy_mI5krV2NPgTMdG4ZRcbRYrYI-lZ04mvxo)
+
+
+### 聖剣LOM
+
+- [聖剣伝説 Legend of Mana Original Soundtrack](https://www.youtube.com/playlist?list=OLAK5uy_my3U5Rxszyx_wSA2QIKjsyFYZ9rFWYwKA)
+
+### Others (MANA Series)
+
+- [聖剣伝説 HEROES of MANA Original Soundtrack](https://www.youtube.com/playlist?list=OLAK5uy_mP3eSSE9ydfRIFmatpjReovJxN-YjGhfc)
+- [聖剣伝説 RISE of MANA オリジナル･サウンドトラック](https://www.youtube.com/playlist?list=OLAK5uy_lB6ptH97JqX70cG31B5BVXB0LR27FLq9o)
+- [聖剣伝説DS CHILDREN of MANA Original Soundtrack](https://www.youtube.com/playlist?list=OLAK5uy_nRlqfAH9RrWZQP4BC21RMHjZspJMtIWy8)
+- [Re: Birth 聖剣伝説アレンジアルバム](https://www.youtube.com/playlist?list=OLAK5uy_kbVpuw53KzVNHmG4gh6PHbLYOs8a0XNVs)
+- [聖剣伝説 25th Anniversary Orchestra Concert CD](https://www.youtube.com/playlist?list=OLAK5uy_m88O2fTI9tUjNbtQO7nwRVVQ91pda3f4M)
+
+### Channel Official Playlist (MANA Series)
+
+- [【Playlist】聖剣伝説3　25周年 ～聖剣伝説3に込められた聖なる試み～](https://www.youtube.com/playlist?list=PLOLBWlPQqPkuF_PL1MxHdbDy943rGQNXE)
+- [【Playlist】聖剣伝説シリーズ30周年選曲集](https://www.youtube.com/playlist?list=PLOLBWlPQqPkuhLm33uhfm0qYaISpTyFga)
+- [【Playlist】聖剣伝説4 -15周年選曲集-](https://www.youtube.com/playlist?list=PLOLBWlPQqPks782Rbsdtu1WJCDqg5IuYw)
+
+## CHRONO Series
+
+- [CHRONO Series Playlists](https://www.youtube.com/channel/UCMx60HYcw1ieiPlZZagfqXQ/playlists?view=50&sort=dd&shelf_id=8)
+
+### クロノトリガー
+
+- [【DS版】クロノ・トリガー オリジナル・サウンドトラック](https://www.youtube.com/playlist?list=OLAK5uy_kOFWziQDh7okS3iyuKk4mkFNVdbxmHBqA)
+
+### クロノクロス
+
+- [クロノ・クロス オリジナル・サウンドトラック](https://www.youtube.com/playlist?list=OLAK5uy_m0OQNm22GZz8ZKeymSPrtVBll9ykcwBWY)
+
+### アレンジアルバム
+
+- [クロノ･トリガー&クロノ･クロス アレンジアルバム/ハルカナルトキノカナタへ](https://www.youtube.com/playlist?list=OLAK5uy_kIT-6hvdePnVpZmzFDYirVDTCqxFFnaM0)
+
+## NieR Series
+
+- [NieR Series Playlists](https://www.youtube.com/channel/UCMx60HYcw1ieiPlZZagfqXQ/playlists?view=50&sort=dd&shelf_id=9)
+
+### ニーア ゲシュタルト & レプリカント
+
+- [ニーア ゲシュタルト & レプリカント オリジナル・サウンドトラック](https://www.youtube.com/playlist?list=OLAK5uy_lJW1JpYw6dQyZAR7ElreMUATvSeWjC0CE)
+- [NieR Gestalt & Replicant 15 Nightmares & Arrange Tracks](https://www.youtube.com/playlist?list=OLAK5uy_n2YKXZz3uFDdfqULpG9UhCvzx2uImCnL0)
+- [Piano Collections NieR Gestalt & Replicant](https://www.youtube.com/playlist?list=OLAK5uy_lKV2DO7jn6IBLa5AnSDX2DfnQ84h5U2h8)
+
+
+### NieR:Automata
+
+- [NieR:Automata Original Soundtrack](https://www.youtube.com/playlist?list=OLAK5uy_l--G5hZu15rmQoiNnHHGCARJ5xJePbWOM)
+- [NieR:Automata Arranged & Unreleased Tracks](https://www.youtube.com/playlist?list=OLAK5uy_mDaDGsSvEx7duahcce90AooyLDENSaguE)
+- [Piano Collections NieR:Automata](https://www.youtube.com/playlist?list=OLAK5uy_k9a5vn5DiSo6OTLhXbl4Pm4tCeLIKTi2Y)
+
+### Others (NieR Series)
+
+- [NieR Tribute Album -echo-](https://www.youtube.com/playlist?list=OLAK5uy_m5na6b7eOxd7p7obvjEzragSuS4VzHyXQ)
+
+### Channel Official Playlist (NieR Series)
+
+- [【Playlist】NieR:Automata 5th Anniversary Selection](https://www.youtube.com/playlist?list=PLOLBWlPQqPktfk8MpEdS0PEc0-251aR0f)
+
+## Others
+
+- [Others Playlists](https://www.youtube.com/channel/UCMx60HYcw1ieiPlZZagfqXQ/playlists?view=50&sort=dd&shelf_id=11)
+
+### ブレイブリー
+
+- [ブレイブリーデフォルト フライングフェアリー オリジナル・サウンドトラック](https://www.youtube.com/playlist?list=OLAK5uy_ljOAnhVhbp276c3F7IzKtM4SdG0JsFiR8)
+- [BRAVELY SECOND END LAYER Original Soundtrack](https://www.youtube.com/playlist?list=OLAK5uy_lTCl1Um6j1KxBuX_jwFmvweRhAW00e7tE)
+- [X'mas Collections music from BRAVELY DEFAULT](https://www.youtube.com/playlist?list=OLAK5uy_mQeMvAfg8Pj4SekBtUXqcrdCJZE1APv_I)
+
+### オクトパストラベラー
+
+- [OCTOPATH TRAVELER Original Soundtrack](https://www.youtube.com/playlist?list=OLAK5uy_l61-xQRkAwn7ZmwwBDeGuCxnofeHFrNzw)
+- [OCTOPATH TRAVELER Arrangements - Break & Boost -](https://www.youtube.com/playlist?list=OLAK5uy_m2Af0k_CAOs8vydYlb8sdDch_m_EMlqAM)
+
+### シノアリス
+
+- [SINoALICE ーシノアリスー Original Soundtrack](https://www.youtube.com/playlist?list=OLAK5uy_llXR0C9I2dskOcoUGWxfvyuJX4MQyHv1g)
+
+### すばらしきこのせかい
+
+- [すばらしきこのせかい Original Soundtrack (+Bonus Track)](https://www.youtube.com/playlist?list=OLAK5uy_kyEwewAoAYT_ymQ6jE7lM1TCzXvoPMqSo)
+- [すばらしきこのせかい + The World Ends with You](https://www.youtube.com/playlist?list=OLAK5uy_kl14XtdpEC7lR9oEqqsUVEO8G2Qs1VgTA)
+- [すばらしきこのせかい The Animation オリジナル・サウンドトラック (53 Tracks Version)](https://www.youtube.com/playlist?list=OLAK5uy_mJz_u7RONxRR3rx6Z2SnTne7UV4O7K99s)
+- [新すばらしきこのせかい オリジナル・サウンドトラック](https://www.youtube.com/playlist?list=OLAK5uy_k3Shqv7jnZAV2k76YGiI-Hu04E15bWCXo)
+- [choBIT Orchestra -Ver.1.02](https://www.youtube.com/playlist?list=OLAK5uy_kc5p_k503kqqB9c7-ihpTds29Fahp9aYI)
+
+### Others (Others)
+
+- [THE DEATH MARCH](https://www.youtube.com/playlist?list=OLAK5uy_maBfcXaK_KCIbvnjo8UMnY-tmQIiDTt2s)
+- [バランワンダーワールド オリジナル･サウンドトラック Preshow Version](https://www.youtube.com/playlist?list=OLAK5uy_lf_YBM8XU_GX-F6ikm9sgv3xebBg2gw5E)
+- [SQUARE ENIX Chill Out Arrangement Tracks - AROUND 80's MIX](https://www.youtube.com/playlist?list=OLAK5uy_nvab359FtyaxIBt9-Zx-qt2k8b8B5dmDs)
+- [SQUARE ENIX Chill Out Arrangement Tracks - AROUND 80's MIX Pre-Stream Mini Album](https://www.youtube.com/playlist?list=OLAK5uy_mTeMnsgeVc16TA6D_cudnyJ6GpIfPNl30)
+
+## SQUARE ENIX MUSIC Recommend
+
+- [SQUARE ENIX MUSIC Recommend Playlists](https://www.youtube.com/channel/UCMx60HYcw1ieiPlZZagfqXQ/playlists?view=50&sort=dd&shelf_id=10)
+
+### Channel Official Playlist (Recommend)
+
+- [【Playlist】OCTOPATH TRAVELER](https://www.youtube.com/playlist?list=PLOLBWlPQqPksgW29-oVjYnqQOo1oFWJfM)
+- [【Playlist】HOLIDAY PLAYLIST - SQUARE ENIX MUSIC -](https://www.youtube.com/playlist?list=PLOLBWlPQqPkt2o6-j8j_KMmrKdoidHNE2)
+- [【Playlist】SQUARE ENIX MUSIC -2021 Valentine’s Day-](https://www.youtube.com/playlist?list=PLOLBWlPQqPksIcApr9kIlnBYL1GmW0LCx)
+- [【Playlist】雨の日に聴く☂SQEXゲームミュージック](https://www.youtube.com/playlist?list=PLOLBWlPQqPksFmly9xUtBw93AgAyssHUn)
+- [【Playlist】夏に聴きたい☀SQEXゲームミュージック](https://www.youtube.com/playlist?list=PLOLBWlPQqPkuOxcKWDlN0S9Kok1qhfrT6)
+- [【Playlist】ゲームさんぽ TGS2020 出張編](https://www.youtube.com/playlist?list=PLOLBWlPQqPktyzcT7_iMXzrXuyGPTABLm)
+- [【Playlist】ピアノが奏でるゲーム音楽の世界](https://www.youtube.com/playlist?list=PLOLBWlPQqPkuy5K_h0OCWfjQ3tArsS01x)
+- [【Playlist】FFCC 星月夜の音楽祭](https://www.youtube.com/playlist?list=PLOLBWlPQqPksUs0LKC_PPRHIADcjYqnB9)
+- [【Playlist】SEM DJ MIX SHOW](https://www.youtube.com/playlist?list=PLOLBWlPQqPks2AxZ7Zrz5Y0tawIotFczr)
