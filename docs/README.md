@@ -7,7 +7,7 @@ title: Links
 [SQUARE ENIX MUSIC Channel](https://www.youtube.com/channel/UCMx60HYcw1ieiPlZZagfqXQ/featured) の再生リストをまとめた一覧リンク集です。  
 何かあったら [@euro_s](https://twitter.com/euro_s) まで。
 
-関連リンク：[全曲タイトルリスト](./all)
+関連リンク：[全曲タイトルリスト](./all) ※ロードに非常に時間がかかるため、PCからの閲覧を推奨します。
 
 - [SQUARE ENIX MUSIC Channel on Youtube リンク集](#square-enix-music-channel-on-youtube-リンク集)
   - [FINAL FANTASY Series](#final-fantasy-series)
