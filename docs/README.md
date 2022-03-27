@@ -40,15 +40,15 @@ title: Links
     - [RS3](#rs3)
     - [SF1](#sf1)
     - [SF2](#sf2)
-    - [アンサガ](#アンサガ)
-    - [ミンサガ](#ミンサガ)
-    - [インサガ](#インサガ)
-    - [サガスカ](#サガスカ)
-    - [RS(Re;univerSe)](#rsreuniverse)
+    - [アンサガ](#unsaga)
+    - [ミンサガ](#minsaga)
+    - [インサガ](#insaga)
+    - [サガスカ](#sagasca)
+    - [RS(Re;univerSe)](#rs)
     - [Arrange Albums](#arrange-albums)
     - [Others (SaGa Series)](#others-saga-series)
     - [Channel Official Playlist (SaGa Series)](#channel-official-playlist-saga-series)
-  - [MANA Series(聖剣伝説)](#mana-series聖剣伝説)
+  - [MANA Series(聖剣伝説)](#mana-series-聖剣伝説)
     - [聖剣1](#聖剣1)
     - [聖剣2](#聖剣2)
     - [聖剣3](#聖剣3)
@@ -57,19 +57,19 @@ title: Links
     - [Others (MANA Series)](#others-mana-series)
     - [Channel Official Playlist (MANA Series)](#channel-official-playlist-mana-series)
   - [CHRONO Series](#chrono-series)
-    - [クロノトリガー](#クロノトリガー)
+    - [クロノトリガー](#chronotrigger)
     - [クロノクロス](#クロノクロス)
-    - [アレンジアルバム](#アレンジアルバム)
+    - [アレンジアルバム](#arrangealbum)
   - [NieR Series](#nier-series)
-    - [ニーア ゲシュタルト & レプリカント](#ニーア-ゲシュタルト--レプリカント)
+    - [ニーア ゲシュタルト & レプリカント](#nier-gestalt-replicant)
     - [NieR:Automata](#nierautomata)
     - [Others (NieR Series)](#others-nier-series)
     - [Channel Official Playlist (NieR Series)](#channel-official-playlist-nier-series)
   - [Others](#others)
-    - [ブレイブリー](#ブレイブリー)
-    - [オクトパストラベラー](#オクトパストラベラー)
+    - [ブレイブリー](#bravely)
+    - [オクトパストラベラー](#octopathtraveler)
     - [シノアリス](#シノアリス)
-    - [すばらしきこのせかい](#すばらしきこのせかい)
+    - [すばらしきこのせかい](#subarashikikonosekai)
     - [Others (Others)](#others-others)
   - [SQUARE ENIX MUSIC Recommend](#square-enix-music-recommend)
     - [Channel Official Playlist (Recommend)](#channel-official-playlist-recommend)
@@ -285,23 +285,27 @@ title: Links
 - [サガ フロンティア 2 オリジナル・サウンドトラック](https://www.youtube.com/playlist?list=OLAK5uy_nSYJgNCSc_sKpBo2ohxNEjo-V36Gfyw3k)
 - [【2010年再発盤】Piano Pieces ”SF2” Rhapsody on a Theme of SaGa FRONTIER2](https://www.youtube.com/playlist?list=OLAK5uy_nCM_6_6xgzNI1U34-XqZs0htwDTfCVLhE)
 - [Piano Pieces ”SF2” ~ Rhapsody on a Theme of SaGa Frontier 2](https://www.youtube.com/playlist?list=OLAK5uy_lm_PyKbJ-MTS7xbCNr468Of_P1edlXSho)
+<a name="unsaga"></a>
 
 ### アンサガ
 
 - [【再発盤】アンリミテッド:サガ オリジナル・サウンドトラック](https://www.youtube.com/playlist?list=OLAK5uy_kVwrA4ZjnEG8-MWUk8HwwIB18pK8ikSjg)
-
+<a name="minsaga"></a>
 
 ### ミンサガ
 
 - [ロマンシング・サガ -ミンストレルソング-(配信用)](https://www.youtube.com/playlist?list=OLAK5uy_kxiw9BmQn65pA7VRGkGI5tVWorfpGPN8w)
+<a name="insaga"></a>
 
 ### インサガ
 
 - [インペリアル サガ オリジナル・サウンドトラック](https://www.youtube.com/playlist?list=OLAK5uy_nxkxJ3ENyj_A1a_gZOmTr_Zoz9oxq2Z3A)
+<a name="sagasca"></a>
 
 ### サガスカ
 
 - [サガ スカーレット グレイス オリジナル・サウンドトラック](https://www.youtube.com/playlist?list=OLAK5uy_lFP79jR4FmxV3ZDpGc0NC0mhQ1DQRXWIo)
+<a name="rs"></a>
 
 ### RS(Re;univerSe)
 
@@ -376,6 +380,7 @@ title: Links
 ## CHRONO Series
 
 - [CHRONO Series Playlists](https://www.youtube.com/channel/UCMx60HYcw1ieiPlZZagfqXQ/playlists?view=50&sort=dd&shelf_id=8)
+<a name="chronotrigger"></a>
 
 ### クロノトリガー
 
@@ -384,6 +389,7 @@ title: Links
 ### クロノクロス
 
 - [クロノ・クロス オリジナル・サウンドトラック](https://www.youtube.com/playlist?list=OLAK5uy_m0OQNm22GZz8ZKeymSPrtVBll9ykcwBWY)
+<a name="arrangealbum"></a>
 
 ### アレンジアルバム
 
@@ -392,12 +398,14 @@ title: Links
 ## NieR Series
 
 - [NieR Series Playlists](https://www.youtube.com/channel/UCMx60HYcw1ieiPlZZagfqXQ/playlists?view=50&sort=dd&shelf_id=9)
+<a name="nier-gestalt-replicant"></a>
 
 ### ニーア ゲシュタルト & レプリカント
 
 - [ニーア ゲシュタルト & レプリカント オリジナル・サウンドトラック](https://www.youtube.com/playlist?list=OLAK5uy_lJW1JpYw6dQyZAR7ElreMUATvSeWjC0CE)
 - [NieR Gestalt & Replicant 15 Nightmares & Arrange Tracks](https://www.youtube.com/playlist?list=OLAK5uy_n2YKXZz3uFDdfqULpG9UhCvzx2uImCnL0)
 - [Piano Collections NieR Gestalt & Replicant](https://www.youtube.com/playlist?list=OLAK5uy_lKV2DO7jn6IBLa5AnSDX2DfnQ84h5U2h8)
+<a name="nierautomata"></a>
 
 
 ### NieR:Automata
@@ -417,12 +425,14 @@ title: Links
 ## Others
 
 - [Others Playlists](https://www.youtube.com/channel/UCMx60HYcw1ieiPlZZagfqXQ/playlists?view=50&sort=dd&shelf_id=11)
+<a name="bravely"></a>
 
 ### ブレイブリー
 
 - [ブレイブリーデフォルト フライングフェアリー オリジナル・サウンドトラック](https://www.youtube.com/playlist?list=OLAK5uy_ljOAnhVhbp276c3F7IzKtM4SdG0JsFiR8)
 - [BRAVELY SECOND END LAYER Original Soundtrack](https://www.youtube.com/playlist?list=OLAK5uy_lTCl1Um6j1KxBuX_jwFmvweRhAW00e7tE)
 - [X'mas Collections music from BRAVELY DEFAULT](https://www.youtube.com/playlist?list=OLAK5uy_mQeMvAfg8Pj4SekBtUXqcrdCJZE1APv_I)
+<a name="octopathtraveler"></a>
 
 ### オクトパストラベラー
 
@@ -432,6 +442,7 @@ title: Links
 ### シノアリス
 
 - [SINoALICE ーシノアリスー Original Soundtrack](https://www.youtube.com/playlist?list=OLAK5uy_llXR0C9I2dskOcoUGWxfvyuJX4MQyHv1g)
+<a name="subarashikikonosekai"></a>
 
 ### すばらしきこのせかい
 
