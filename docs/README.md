@@ -244,6 +244,10 @@ title: Links
 - [【Playlist】HEROES AND VILLAINS - Select Tracks from the FINAL FANTASY Series FIRST](https://www.youtube.com/playlist?list=PLOLBWlPQqPkvuIsgc5Aw6Xe847qzVlr65)
 - [【Playlist】HEROES AND VILLAINS - Select Tracks from the FINAL FANTASY Series SECOND](https://www.youtube.com/playlist?list=PLOLBWlPQqPksFwx7i4gVVJ1Lb1lPfPD64)
 - [【Playlist】HEROES AND VILLAINS - Select Tracks from the FINAL FANTASY Series THIRD](https://www.youtube.com/playlist?list=PLOLBWlPQqPkuO_jpqa7fDwX_W97_u8X1J)
+- [【Playlist】Chocobo AND Friends 1 - Select Tracks from the FINAL FANTASY Series Compilation](https://www.youtube.com/playlist?list=PLOLBWlPQqPkttaeh1M6hON17PZSvy1aJn)
+- [【Playlist】Chocobo AND Friends 2 - Select Tracks from the FINAL FANTASY Series Compilation](https://www.youtube.com/playlist?list=PLOLBWlPQqPkvYDrGQ8b583kRtg7ZqPFqB)
+- [【Playlist】FINAL FANTASY IX VINYL - All Tracks -](https://www.youtube.com/playlist?list=PLOLBWlPQqPks4CPRbCN-VHcwvGUqQGRUP)
+- [【Playlist】FINAL FANTASY VII COMPILATION VINYL - Select Tracks -](https://www.youtube.com/playlist?list=PLOLBWlPQqPktDHsy4CixO2l6xbSMTkiTm)
 
 ## SaGa Series
 
