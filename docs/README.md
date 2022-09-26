@@ -469,9 +469,14 @@ title: Links
 
 ### Channel Official Playlist (Recommend)
 
+- [【Playlist】Lounge Jam - SQUARE ENIX MUSIC TGS 2021 Special Live -](https://www.youtube.com/playlist?list=PLOLBWlPQqPktLTBF0wghFFMAICswES7KJ)
+- [【Playlist】SQUARE ENIX JAZZ LIVE PAINTING](https://www.youtube.com/playlist?list=PLOLBWlPQqPkt5WfTlPQybHw12AjiKA5gg)
+- [【Playlist】OCTOPATH TRAVELER -Recorded Journey- (Select Tracks)](https://www.youtube.com/playlist?list=PLOLBWlPQqPku9DZW6uBhPMqI9RttuROdv)
 - [【Playlist】OCTOPATH TRAVELER](https://www.youtube.com/playlist?list=PLOLBWlPQqPksgW29-oVjYnqQOo1oFWJfM)
 - [【Playlist】HOLIDAY PLAYLIST - SQUARE ENIX MUSIC -](https://www.youtube.com/playlist?list=PLOLBWlPQqPkt2o6-j8j_KMmrKdoidHNE2)
 - [【Playlist】SQUARE ENIX MUSIC -2021 Valentine’s Day-](https://www.youtube.com/playlist?list=PLOLBWlPQqPksIcApr9kIlnBYL1GmW0LCx)
+- [【Playlist】SQUARE ENIX MUSIC -2020 Winter-](https://www.youtube.com/playlist?list=PLOLBWlPQqPkt95209kYSuWoGy94Qvvdp0)
+- [【Playlist】STAY HOME GAME MUSIC](https://www.youtube.com/playlist?list=PLOLBWlPQqPkuS9rJK2KAWBet4K1v4gd8S)
 - [【Playlist】雨の日に聴く☂SQEXゲームミュージック](https://www.youtube.com/playlist?list=PLOLBWlPQqPksFmly9xUtBw93AgAyssHUn)
 - [【Playlist】夏に聴きたい☀SQEXゲームミュージック](https://www.youtube.com/playlist?list=PLOLBWlPQqPkuOxcKWDlN0S9Kok1qhfrT6)
 - [【Playlist】ゲームさんぽ TGS2020 出張編](https://www.youtube.com/playlist?list=PLOLBWlPQqPktyzcT7_iMXzrXuyGPTABLm)
