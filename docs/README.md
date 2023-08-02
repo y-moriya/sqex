@@ -4,7 +4,7 @@ title: Links
 
 # SQUARE ENIX MUSIC Channel on Youtube リンク集
 
-[SQUARE ENIX MUSIC Channel](https://www.youtube.com/channel/UCMx60HYcw1ieiPlZZagfqXQ/featured) の再生リストをまとめた一覧リンク集です。  
+[SQUARE ENIX MUSIC Channel](https://www.youtube.com/channel/UCMx60HYcw1ieiPlZZagfqXQ/featured) の再生リストをまとめた一覧リンク集です。
 何かあったら [@euro_s](https://twitter.com/euro_s) まで。
 
 関連リンク：[全曲タイトルリスト](./all) ※ロードに非常に時間がかかるため、PCからの閲覧を推奨します。
@@ -26,6 +26,7 @@ title: Links
     - [FF13](#ff13)
     - [FF14](#ff14)
     - [FF15](#ff15)
+    - [FF16](#ff16)
     - [DISSIDIA](#dissidia)
     - [FFBE](#ffbe)
     - [FFCC](#ffcc)
@@ -70,9 +71,12 @@ title: Links
     - [オクトパストラベラー](#octopathtraveler)
     - [シノアリス](#シノアリス)
     - [すばらしきこのせかい](#subarashikikonosekai)
+    - [スターオーシャン](#スターオーシャン)
     - [Others (Others)](#others-others)
   - [SQUARE ENIX MUSIC Recommend](#square-enix-music-recommend)
     - [Channel Official Playlist (Recommend)](#channel-official-playlist-recommend)
+  - [Video Soundtrack](#video-soundtrack)
+  - [Cover](#cover)
 
 ## FINAL FANTASY Series
 
@@ -114,6 +118,10 @@ title: Links
 - [CRISIS CORE -FINAL FANTASY VII- Original Soundtrack](https://www.youtube.com/playlist?list=OLAK5uy_mgRUo0FayQkwrJA4CvDWMIYnbfb4Df53k)
 - [DIRGE of CERBERUS -FINAL FANTASY VII- MULTIPLAYER MODE Original Sound Collections](https://www.youtube.com/playlist?list=OLAK5uy_n9E73hZvDiMrXg6EY-_ywJGQzeazFxg70)
 - [FINAL FANTASY VII ADVENT CHILDREN Original Soundtrack](https://www.youtube.com/playlist?list=OLAK5uy_mylCFepfWRHZC0594LEheZsQz6UJe6aSQ)
+- [FINAL FANTASY VII REMAKE Original Soundtrack Plus](https://www.youtube.com/playlist?list=OLAK5uy_lpIamOgy38pUJCgcpaZWzb-uYoY_CDGlY)
+- [FINAL FANTASY VII REMAKE INTERGRADE Original Soundtrack](https://www.youtube.com/playlist?list=OLAK5uy_mk4oH13wXFu7wcfGalpB_Bu7vtoNOs-Pc)
+- [SQUARE ENIX JAZZ -FINAL FANTASY VII-](https://www.youtube.com/playlist?list=OLAK5uy_kdzQOjcEGN_SFUZKZ02eZDPZ7vgKIMi0U)
+- [FINAL FANTASY VII REMAKE ACOUSTIC ARRANGEMENTS](https://www.youtube.com/playlist?list=OLAK5uy_k_hE5HhMiwlHuzdS7R17Yk8w68ilnSrMw)
 
 ### FF8
 
@@ -167,6 +175,8 @@ title: Links
 - [Journeys: FINAL FANTASY XIV 〜 Arrangement Album 〜](https://www.youtube.com/playlist?list=OLAK5uy_m89ybgiSQH6r9C4wBoTWsORLkV5B-6jVE)
 - [Pulse:混沌の渦動 ～蛮神リヴァイアサン討滅戦～ Remixed by Takafumi Imamura](https://www.youtube.com/playlist?list=OLAK5uy_lFQqM0w8LHRDIpBvJDUnX5ux5RPV4WS0c)
 - [Pulse:目覚めの御使い ～ティターニア討滅戦～ Remixed by Takafumi Imamura](https://www.youtube.com/playlist?list=OLAK5uy_lhfVrE7VygmaVvFFcIpRYXpxak6lA99S8)
+- [DEATH UNTO DAWN: FINAL FANTASY XIV Original Soundtrack](https://www.youtube.com/playlist?list=OLAK5uy_mSiL_OXRHS92jeSU0uKsPxnhg5j4qzsWM)
+- [Journeys: FINAL FANTASY XIV ～ Arrangement Album ～](https://www.youtube.com/playlist?list=OLAK5uy_m89ybgiSQH6r9C4wBoTWsORLkV5B-6jVE)
 
 ### FF15
 
@@ -174,6 +184,11 @@ title: Links
 - [FINAL FANTASY XV Original Soundtrack Volume 2【1/2】](https://www.youtube.com/playlist?list=OLAK5uy_mmXQIQpoACjzSLq73-7vlobwrKDJxhsMI)
 - [FINAL FANTASY XV Original Soundtrack Volume 2【2/2】](https://www.youtube.com/playlist?list=OLAK5uy_lPoNbE3f6Twdtw0V6SKzWSK2L5FOhT_ec)
 - [KINGSGLAIVE FINAL FANTASY XV オリジナル・サウンドトラック](https://www.youtube.com/playlist?list=OLAK5uy_mp-SOzOnSVknvD2BNPMPZoNY1aYIftnMk)
+
+### FF16
+
+- [Find the Flame from FINAL FANTASY XVI Original Soundtrack](https://www.youtube.com/playlist?list=OLAK5uy_lxP2h1dwOc9X7lcZ3IB7qaHGOjx4gYySE)
+- [FINAL FANTASY XVI Original Soundtrack - Prelude](https://www.youtube.com/playlist?list=OLAK5uy_mwTPpbR-28IfAA5RMkBlRnXHvXe1dFpV8)
 
 ### DISSIDIA
 
@@ -187,6 +202,7 @@ title: Links
 
 - [FINAL FANTASY BRAVE EXVIUS Original Soundtrack](https://www.youtube.com/playlist?list=OLAK5uy_nRKUtroXjrSPEfVCMd51Jbofn9K5E0KCI)
 - [FINAL FANTASY BRAVE EXVIUS Original Soundtrack Vol.2](https://www.youtube.com/playlist?list=OLAK5uy_mA72fr2dy43yhrNmtZDl9bbvbPJ0UnoMg)
+- [FINAL FANTASY BRAVE EXVIUS Original Soundtrack Vol.3](https://www.youtube.com/playlist?list=OLAK5uy_nDfAIrktqLk3wGj0wV6KfskV4bzytiqDk)
 
 ### FFCC
 
@@ -222,6 +238,9 @@ title: Links
 - [光の4戦士 -ファイナルファンタジー外伝- オリジナル・サウンドトラック](https://www.youtube.com/playlist?list=OLAK5uy_nRVX9rsJLMnrbebLQPzOBTIOD55kDDYyU)
 - [小さな王様と約束の国&光と闇の姫君と世界征服の塔 ファイナルファンタジー・クリスタルクロニクル](https://www.youtube.com/playlist?list=OLAK5uy_k9lcj6XSQakBYk-okRtVssp6YEG2G8OOs)
 - [翼に夢を(チョコボの不思議なダンジョン)](https://www.youtube.com/playlist?list=OLAK5uy_nZs-2AM08HKcKiVMMGT1zXAgYP8GTAF6M)
+- [SQUARE ENIX JAZZ -FINAL FANTASY-](https://www.youtube.com/playlist?list=OLAK5uy_kBKC_VhiDcwwPwD6XO14gOUC9WbVsOXts)
+- [SQUARE ENIX JAZZ -SaGa-](https://www.youtube.com/playlist?list=OLAK5uy_kiSx9ayh7hM6NSsTahTiYAbKtLWfOpgXg)
+- [STRANGER OF PARADISE FINAL FANTASY ORIGIN Original Soundtrack](https://www.youtube.com/playlist?list=OLAK5uy_kP-EOP6UQjnmYZo_VWpCy9eQj7GbpFQzM)
 
 ### Channel Official Playlist (FINAL FANTASY Series)
 
@@ -246,8 +265,18 @@ title: Links
 - [【Playlist】HEROES AND VILLAINS - Select Tracks from the FINAL FANTASY Series THIRD](https://www.youtube.com/playlist?list=PLOLBWlPQqPkuO_jpqa7fDwX_W97_u8X1J)
 - [【Playlist】Chocobo AND Friends 1 - Select Tracks from the FINAL FANTASY Series Compilation](https://www.youtube.com/playlist?list=PLOLBWlPQqPkttaeh1M6hON17PZSvy1aJn)
 - [【Playlist】Chocobo AND Friends 2 - Select Tracks from the FINAL FANTASY Series Compilation](https://www.youtube.com/playlist?list=PLOLBWlPQqPkvYDrGQ8b583kRtg7ZqPFqB)
-- [【Playlist】FINAL FANTASY IX VINYL - All Tracks -](https://www.youtube.com/playlist?list=PLOLBWlPQqPks4CPRbCN-VHcwvGUqQGRUP)
 - [【Playlist】FINAL FANTASY VII COMPILATION VINYL - Select Tracks -](https://www.youtube.com/playlist?list=PLOLBWlPQqPktDHsy4CixO2l6xbSMTkiTm)
+- [【Playlist】FINAL FANTASY VII Day (Cloud's Tracklist)](https://www.youtube.com/playlist?list=PLOLBWlPQqPkuBRUonUttWr8BipJ0fBRNm)
+- [【Playlist】FINAL FANTASY VII Day (Tifa's Tracklist)](https://www.youtube.com/playlist?list=PLOLBWlPQqPkuJV0AxChx_Js7osCbSlLSP)
+- [【Playlist】FINAL FANTASY VII Day (Aerith's Tracklist)](https://www.youtube.com/playlist?list=PLOLBWlPQqPktLvD1F50DuZ18AWRjOfwZr)
+- [【Playlist】FINAL FANTASY VII Day (Barret's Tracklist)](https://www.youtube.com/playlist?list=PLOLBWlPQqPksJoQ0T1pQEN8d_oGPHg5rZ)
+- [【Playlist】FINAL FANTASY VII Day (Red XIII's Tracklist)](https://www.youtube.com/playlist?list=PLOLBWlPQqPktVfpbkkuEEm9gKfLl1hV8q)
+- [【Playlist】FINAL FANTASY VII Day (Yuffie & Cait Sith's Tracklist)](https://www.youtube.com/playlist?list=PLOLBWlPQqPkshZ4PBgYFwcDluvUahlxc_)
+- [【Playlist】FINAL FANTASY VII Day (Shinra Electric Power Company's Tracklist)](https://www.youtube.com/playlist?list=PLOLBWlPQqPks9KqqKrEdrkYgJzfySH-1S)
+- [【Playlist】FINAL FANTASY VII Day (Sephiroth's Tracklist)](https://www.youtube.com/playlist?list=PLOLBWlPQqPktuzdvU6XcH4zewVGexvTT4)
+- [【Playlist】FINAL FANTASY IX VINYL - All Tracks -](https://www.youtube.com/playlist?list=PLOLBWlPQqPks4CPRbCN-VHcwvGUqQGRUP)
+- [【Playlist】FINAL FANTASY XI VINYL - All Tracks -](https://www.youtube.com/playlist?list=PLOLBWlPQqPktWuurnpbpvY9PhCiPW_g3c)
+- [【Playlist】HEROES AND VILLAINS - Select Tracks from the FINAL FANTASY Series FOURTH](https://www.youtube.com/playlist?list=PLOLBWlPQqPksfTcLki3oPUXBIcvYXbNRD)
 
 ## SaGa Series
 
@@ -398,11 +427,9 @@ title: Links
 ### アレンジアルバム
 
 - [クロノ･トリガー&クロノ･クロス アレンジアルバム/ハルカナルトキノカナタへ](https://www.youtube.com/playlist?list=OLAK5uy_kIT-6hvdePnVpZmzFDYirVDTCqxFFnaM0)
+- [SQUARE ENIX JAZZ -CHRONO TRIGGER-](https://www.youtube.com/playlist?list=OLAK5uy_mq8QNrnBSfwBmzdfPC66x-OGzVXkKYQgE)
 
 ## NieR Series
-
-- [NieR Series Playlists](https://www.youtube.com/channel/UCMx60HYcw1ieiPlZZagfqXQ/playlists?view=50&sort=dd&shelf_id=9)
-<a name="nier-gestalt-replicant"></a>
 
 ### ニーア ゲシュタルト & レプリカント
 
@@ -442,6 +469,8 @@ title: Links
 
 - [OCTOPATH TRAVELER Original Soundtrack](https://www.youtube.com/playlist?list=OLAK5uy_l61-xQRkAwn7ZmwwBDeGuCxnofeHFrNzw)
 - [OCTOPATH TRAVELER Arrangements - Break & Boost -](https://www.youtube.com/playlist?list=OLAK5uy_m2Af0k_CAOs8vydYlb8sdDch_m_EMlqAM)
+- [OCTOPATH TRAVELER 大陸の覇者 Original Soundtrack](https://www.youtube.com/playlist?list=OLAK5uy_mk4QB5f481nILNUbEqgJ-dDo8jJ3acPuk)
+- [OCTOPATH TRAVELER Break, Boost and Beyond Live!](https://www.youtube.com/playlist?list=OLAK5uy_kIc1u5T-ba0XBQ-_UakKZrqvu8GEGkqQI)
 
 ### シノアリス
 
@@ -456,12 +485,31 @@ title: Links
 - [新すばらしきこのせかい オリジナル・サウンドトラック](https://www.youtube.com/playlist?list=OLAK5uy_k3Shqv7jnZAV2k76YGiI-Hu04E15bWCXo)
 - [choBIT Orchestra -Ver.1.02](https://www.youtube.com/playlist?list=OLAK5uy_kc5p_k503kqqB9c7-ihpTds29Fahp9aYI)
 
+### スターオーシャン
+
+- [STAR OCEAN Soundtrack (52 Track Version)](https://www.youtube.com/playlist?list=OLAK5uy_lRAPpMJUYgoE2OkSZ_6F27o5l0MuT7aeQ)
+- [STAR OCEAN THE SECOND STORY ORIGINAL SOUNDTRACK](https://www.youtube.com/playlist?list=OLAK5uy_mIsLM5sovFlaUqBBjbmKUteytOksMOyZg)
+- [STAR OCEAN First Departure Original Soundtrack (67 Track Version)](https://www.youtube.com/playlist?list=OLAK5uy_m5qSac089trRLI4qEQ9efb-W6eLW7kNlg)
+- [STAR OCEAN Second Evolution Original Soundtrack (87 Track Version)](https://www.youtube.com/playlist?list=OLAK5uy_kEx8il2O08E1oTh--dkSY0hplqlPzE0Bw)
+- [STAR OCEAN 3 Till the End of Time Original Soundtrack vol.1](https://www.youtube.com/playlist?list=OLAK5uy_kY2-4H8E_GODsOhwxEHEIQcrXHj7etiMA)
+- [STAR OCEAN 3 Till the End of Time Original Soundtrack vol.2](https://www.youtube.com/playlist?list=OLAK5uy_mGzknwKeXYldTBzzcs_7DG_XyG-8UaZo0)
+- [STAR OCEAN 4 －THE LAST HOPE－ Original Soundtrack](https://www.youtube.com/playlist?list=OLAK5uy_kslqgaIKITR3Fte2-Hr7bbYYkKmbRWzvA)
+- [STAR OCEAN 5 -Integrity and Faithlessness- Original Soundtrack](https://www.youtube.com/playlist?list=OLAK5uy_lZLlEBxUF_RSMQq6kk2oj9AE_AwxIcBVk)
+- [STAR OCEAN:anamnesis original soundtrack](https://www.youtube.com/playlist?list=OLAK5uy_kPoLPWcjhmhVVh84dCRWSLRvOc1vI-Hek)
+
 ### Others (Others)
 
 - [THE DEATH MARCH](https://www.youtube.com/playlist?list=OLAK5uy_maBfcXaK_KCIbvnjo8UMnY-tmQIiDTt2s)
 - [バランワンダーワールド オリジナル･サウンドトラック Preshow Version](https://www.youtube.com/playlist?list=OLAK5uy_lf_YBM8XU_GX-F6ikm9sgv3xebBg2gw5E)
 - [SQUARE ENIX Chill Out Arrangement Tracks - AROUND 80's MIX](https://www.youtube.com/playlist?list=OLAK5uy_nvab359FtyaxIBt9-Zx-qt2k8b8B5dmDs)
 - [SQUARE ENIX Chill Out Arrangement Tracks - AROUND 80's MIX Pre-Stream Mini Album](https://www.youtube.com/playlist?list=OLAK5uy_mTeMnsgeVc16TA6D_cudnyJ6GpIfPNl30)
+- [トワツガイ Original Soundtrack](https://www.youtube.com/playlist?list=OLAK5uy_nv7glwxBuoQQODp4uMuV29x6ZWQg3vepg)
+- [LIVE A LIVE オリジナル・サウンドトラック (再発売)](https://www.youtube.com/playlist?list=OLAK5uy_lcHTgX5WOGR3VbS2jpd3QOZ0cK293n6TY)
+- [SQUARE ENIX JAZZ Vol.2](https://www.youtube.com/playlist?list=OLAK5uy_kM9VIt998mNqMooCaeM8N2BYjjMqBSuqQ)
+- [VARIOUS DAYLIFE Original Soundtrack](https://www.youtube.com/playlist?list=OLAK5uy_kAG1dXOrwpNh9MsXfIGP-XLNvNFRF6KPA)
+- [春ゆきてレトロチカ Original Soundtrack](https://www.youtube.com/playlist?list=OLAK5uy_nNmNPz15mAFJEHVOEAm3swJL6xje5vwlA)
+- [Break the Chains / Open the New Gate](https://www.youtube.com/playlist?list=OLAK5uy_m9AVD0mR-RpETyaejiYxXyZAggj0D5vss)
+- [Puzzle / R.O.A.R.](https://www.youtube.com/playlist?list=OLAK5uy_mxrStlvLV3l42tk461kGTGaxVpuNKtNtk)
 
 ## SQUARE ENIX MUSIC Recommend
 
@@ -483,3 +531,26 @@ title: Links
 - [【Playlist】ピアノが奏でるゲーム音楽の世界](https://www.youtube.com/playlist?list=PLOLBWlPQqPkuy5K_h0OCWfjQ3tArsS01x)
 - [【Playlist】FFCC 星月夜の音楽祭](https://www.youtube.com/playlist?list=PLOLBWlPQqPksUs0LKC_PPRHIADcjYqnB9)
 - [【Playlist】SEM DJ MIX SHOW](https://www.youtube.com/playlist?list=PLOLBWlPQqPks2AxZ7Zrz5Y0tawIotFczr)
+- [【Playlist】Nostalgic Melodies](https://www.youtube.com/playlist?list=PLOLBWlPQqPktrc4dWpCNEiEiUA3lcg4bk)
+- [【Playlist】Rock Day!!](https://www.youtube.com/playlist?list=PLOLBWlPQqPkuSitvFfmrq5ysD6txQq-We)
+- [【Playlist】Road Trip](https://www.youtube.com/playlist?list=PLOLBWlPQqPkvf4EQkjGaxPaWAcT3m7Lxw)
+- [【Playlist】Commute](https://www.youtube.com/playlist?list=PLOLBWlPQqPksUomGF0W6xgwPXXH-mqDs7)
+- [【Playlist】🎶THEATRHYTHM THURSDAY🎶](https://www.youtube.com/playlist?list=PLOLBWlPQqPks2i-CxwsXLlPjYclQe2RgM)
+- [【Playlist】BRAVELY DEFAULT FLYING FAIRY -Recorded Journey- (All Tracks)](https://www.youtube.com/playlist?list=PLOLBWlPQqPktX6NNP7NDD0FfCvVTH5vXR)
+
+## Video Soundtrack
+
+- [【Video Soundtrack】FINAL FANTASY I](https://www.youtube.com/playlist?list=PLOLBWlPQqPkvSqeFs4tcDD3OHQvH7Ou3W)
+- [【Video Soundtrack】FINAL FANTASY II](https://www.youtube.com/playlist?list=PLOLBWlPQqPkvxEAkZM_2YNaycD6VG_kbt)
+- [【Video Soundtrack】FINAL FANTASY III](https://www.youtube.com/playlist?list=PLOLBWlPQqPktSmRbEchGnoCvxqKvKeZ5V)
+- [【Video Soundtrack】FINAL FANTASY IV](https://www.youtube.com/playlist?list=PLOLBWlPQqPkv6FnA6X5SbA00TwWkLMxbU)
+- [【Video Soundtrack】FINAL FANTASY V](https://www.youtube.com/playlist?list=PLOLBWlPQqPksnWK9tgf2PTKmzsdgSgoue)
+- [【Video Soundtrack】FINAL FANTASY VI](https://www.youtube.com/playlist?list=PLOLBWlPQqPkvJDeKtfbWEaCcKLP50hsAy)
+- [【Video Soundtrack】サ・ガ2 秘宝伝説](https://www.youtube.com/playlist?list=PLOLBWlPQqPktbPZ2LeLzL6hnZ8m8KUSAa)
+- [【Video Soundtrack】魔界塔士サ・ガ](https://www.youtube.com/playlist?list=PLOLBWlPQqPkvhK_eM9asMmdtR8yHIqy5S)
+
+## Cover
+
+- [Guitar Cover](https://www.youtube.com/playlist?list=PLOLBWlPQqPksBo4VmzEzq2hlV_7UepsUb)
+- [Piano Cover](https://www.youtube.com/playlist?list=PLOLBWlPQqPkugrZqR3woPh-srjc3zDtlf)
+- [FINAL FANTASY Series Piano Cover](https://www.youtube.com/playlist?list=PLOLBWlPQqPkvA_17rahpI8dXqROZsSnYY)

@@ -1,10 +1,10 @@
 ---
-title: Al
+title: All
 ---
 
 # SQUARE ENIX MUSIC Channel on Youtube リンク集(全曲)
 
-[SQUARE ENIX MUSIC Channel](https://www.youtube.com/channel/UCMx60HYcw1ieiPlZZagfqXQ/featured) 全曲をまとめた一覧リンク集です。  
+[SQUARE ENIX MUSIC Channel](https://www.youtube.com/channel/UCMx60HYcw1ieiPlZZagfqXQ/featured) 全曲をまとめた一覧リンク集です。
 何かあったら [@euro_s](https://twitter.com/euro_s) まで。
 
 関連リンク：[全プレイリスト](../)
